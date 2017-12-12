@@ -4,10 +4,16 @@ body
 {
 	
 	background-color: #ef4873;
-	background-image: url(GNP.jpg);
+	background-image: url("GNP.jpg");
 
 }
 
+h1{ 
+
+color: white;
+font-size: 
+
+ }
 
 ul {
 	font-size: 25px;
@@ -29,6 +35,7 @@ ul {
 p {
 
 	font-size: 15px; 
+	font-color: ecd9b1;
 }
 
 
