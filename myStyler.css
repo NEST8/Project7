@@ -3,8 +3,8 @@
 body 
 {
 	
-	background-color: ef4873;
-	background-image: url;(GNP.jpg);
+	background-color: #ef4873;
+	background-image: url(GNP.jpg);
 
 }
 
@@ -23,35 +23,27 @@ ul {
     margin-right: 0px;
     margin-left: 0px;
    background-color: ef4873;
-   text-align: center;
 	
 } 	
 
+p {
 
-
-h1 #cast {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-
-    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
-
-    -webkit-column-rule: 4px outset #ff00ff; /* Chrome, Safari, Opera */
-    -moz-column-rule: 4px outset #ff00ff; /* Firefox */
-    column-rule: 4px outset #ff00ff;
+	font-size: 15px; 
 }
 
 
-iframe {
-	align-items: center;
+#div1 {
+
+	background-image: url(trai1.jpg);
 }
+
+
+
 
 table {
 
 	font-size: 30px;
-	font-color: #d33e54;
+	font-color: d33e54;
 
 }
 
