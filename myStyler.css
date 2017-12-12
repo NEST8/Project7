@@ -8,6 +8,27 @@ body
 
 }
 
+
+ul {
+	font-size: 25px;
+	color: white;
+	padding: 2em 2em;
+	opacity: 1.0;
+	list-style: none;
+	word-spacing: 100px;
+	margin width: 0px;
+	margin: 0px 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+   background-color: ef4873;
+   text-align: center;
+	
+} 	
+
+
+
 h1 #cast {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
