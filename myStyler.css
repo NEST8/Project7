@@ -11,7 +11,9 @@ body
 h1{ 
 
 color: white;
-font-size: 
+font-size: 30px;
+background-color: 662641;
+
 
  }
 
@@ -34,14 +36,30 @@ ul {
 
 p {
 
-	font-size: 15px; 
-	font-color: ecd9b1;
+	font-size: 28px; 
+	color: ecd9b1;
+	background-color: 7b3b60;
+
+
 }
 
 
-#div1 {
+div {
+	color: white;
+	font-size: 27px;
 
-	background-image: url(trai1.jpg);
+	background-color: 662641;
+
+	padding: 1em 1em;
+	opacity: 1.0;
+	list-style: none;
+	word-spacing: 0px;
+	margin width: 0px;
+	margin: -5px -5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 43px;
+    margin-left: 43px;
 }
 
 
@@ -49,9 +67,26 @@ p {
 
 table {
 
-	font-size: 30px;
-	font-color: d33e54;
+	font-size: 35px;
+	color: white;
+	background-color: 662641;
 
 }
 
 
+ol { 
+
+	color: 7b3b60; 
+
+}
+
+
+li {
+
+	color: white;
+	font-size: 27px;
+	background-color: 7b3b60;
+	
+
+	border:3px; border-style:solid; border-color:#FF0000; padding: 1em;"
+}
