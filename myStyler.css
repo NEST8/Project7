@@ -4,6 +4,7 @@ body
 {
 	
 	background-color: ef4873;
+	background-image: url;(GNP.jpg);
 
 }
 
@@ -26,5 +27,11 @@ iframe {
 	align-items: center;
 }
 
+table {
+
+	font-size: 30px;
+	font-color: #d33e54;
+
+}
 
 
